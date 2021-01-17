@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.main{
+    background: rgba(230, 224, 224, 0.685);
+    height: 650px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.col-md-6{
+    margin-top: 30px;
+}
+.highlight{
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:rgb(216, 83, 83)
+    
+}
+.lil-icon{
+    padding-top: 30px;
+  
+}
+
+.Schledue{
+    color:rgba(34, 161, 161, 0.931);
+    font-size: 40px;
+}
+.row{
+    margin-top: 40px;
+}
+
+.up{
+    padding-top: 40px;
+}
+.row, button{
+    margin-top: 10px;
+}
+.row {
+    margin-top: 0px;
+}
+.start{
+    background-color: rgba(34, 161, 161, 0.931);
+    border-radius: 10px;
+    color: white;
+    border-style: none;
+    align-items: center;
+}
+.extra{
+    margin-top: 100px;
+    
+}
+.extra{
+    padding-top: 20px;
+    margin-left: 33px;
+}
+.col-md-3{
+    box-sizing: border-box;
+    text-align: center;
+}
+.note{
+    padding-top: 30px;
+}
+.buy-now-button{
+    padding: 10px 25px;
+    background-color: rgba(34, 161, 161, 0.931);
+   color: white;
+   border-radius: 10px;
+   text-align: center;
+   border-style: none;
+ }
+ .card{
+    box-shadow: 5px 5px 10px whitesmoke;
+    border-radius: 5px;
+    border-style: none;
+ }
+.online-course{
+    text-align: center;
+    color: rgb(80, 80, 230);
+    padding-bottom: 25px;
+    margin-top: 0px;
+}
+.last{
+    width: 40%;
+    padding-bottom: 10px;
+}
+.test, .last{
+    margin-top: 50px;
+    padding-bottom: 30px;
+
+  
+}
+.testimonial{
+    text-align: center;
+}
+.end-text{
+    padding-top: 30px;
+    
+}
+.end{
+   
+    padding-top: 50px;
+    background-color: rgb(31, 29, 31);
+    color: gainsboro;
+}
+footer{
+    text-align: center;
+    background-color:rgb(31, 29, 31) ;
+    color: gainsboro;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.man{
+    padding-bottom: 25px;
+}
